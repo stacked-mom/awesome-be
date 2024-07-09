@@ -1,6 +1,7 @@
 # Contributing
 
-[How to contribute](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
+[How to contribute](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)  
+[What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
 
 ## Guidelines
 
