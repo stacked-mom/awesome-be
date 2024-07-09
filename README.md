@@ -6,9 +6,9 @@ Pull requests welcome, please read [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## Table of Contents
 
-- 3D
-- 2D
-- IRL
+- [3D](#3d)
+- [2D](#2d)
+- [IRL](#irl)
 
 ## 3D
 
