@@ -13,10 +13,10 @@ Pull requests welcome, please read [CONTRIBUTING.md](./CONTRIBUTING.md)
 ## 3D
 
 - [3Darlings](https://www.3rd-art.com/Welcome.html)
-- [MinMax3d](https://www.patreon.com/MinMax3d)
-- [Expandinator](https://www.patreon.com/expandinator)
-- [BEGrove](https://www.patreon.com/begrove)
 - [Beetlebomb](https://www.patreon.com/beetlebomb)
+- [BEGrove](https://www.patreon.com/begrove)
+- [Expandinator](https://www.patreon.com/expandinator)
+- [MinMax3d](https://www.patreon.com/MinMax3d)
 
 ## 2D
 
