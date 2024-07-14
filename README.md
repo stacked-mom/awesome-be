@@ -56,6 +56,6 @@ Pull requests welcome, please read [CONTRIBUTING.md](./CONTRIBUTING.md)
 - Bambi blaze
 - [BE Optimist](https://www.loyalfans.com/beoptimist)
 
-## MORPHS
+## Morphs
 
 - [JimmyJacks99](https://www.deviantart.com/jimmyjacks99)
