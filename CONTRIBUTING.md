@@ -5,10 +5,10 @@
 
 ## Guidelines
 
-Pull requests won't be accepted unless they follow these guidelines
+Pull requests need to follow these guidelines to be merged
 
 1. No links to stolen/reuploaded content
-1. Sort lists alphanumerically
+1. Sort lists alphabetically
 1. No duplicates within categories
 1. If a creator has multiple links, prefer linking to their main revenue source
-1. If a creator has no links, just use a search term
+1. If a creator has no links at all (free/paid), just use a search term instead
