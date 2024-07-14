@@ -1,6 +1,6 @@
 # Awesome Breast Expansion [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A curated list of awesome breast expansion creators.  
+A curated list of awesome breast expansion creators.
 
 Pull requests welcome, please read [CONTRIBUTING.md](./CONTRIBUTING.md)
 
@@ -9,14 +9,14 @@ Pull requests welcome, please read [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [3D](#3d)
 - [2D](#2d)
 - [IRL](#irl)
-- [MORPHS](#morphs)
+- [Morphs](#morphs)
 
 ## 3D
 
 - [3Darlings](https://www.3rd-art.com/Welcome.html)
 - [Alex GTS Artist](https://www.patreon.com/alexgtsartist)
-- Anclar (DeviantArt)
-- BerylliumSun (DeviantArt)
+- [Anclar](https://www.deviantart.com/anclar)
+- [BerylliumSun](https://www.deviantart.com/berylliumsun)
 - [Beetlebomb](https://www.patreon.com/beetlebomb)
 - [BEGrove](https://www.patreon.com/begrove)
 - [Bmtbguy](https://www.patreon.com/Bmtbguy)
@@ -58,4 +58,4 @@ Pull requests welcome, please read [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## MORPHS
 
-- JimmyJacks99 (DeviantArt)
+- [JimmyJacks99](https://www.deviantart.com/jimmyjacks99)
